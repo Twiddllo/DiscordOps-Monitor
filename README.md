@@ -43,10 +43,13 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 
 ## Quickstart
 1. **Clone**
+
    ```bash
    git clone https://github.com/Twiddllo/DiscordOps-Monitor.git
    cd DiscordOps-Monitor
-````
+   ```
+
+
 
 2. **Install**
 
