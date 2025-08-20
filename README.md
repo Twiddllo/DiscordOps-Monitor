@@ -25,15 +25,6 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 
 ---
 
-## Screens (add yours)
-- Alert embed when CPU crosses threshold
-- `/topcpu` result list
-- `/status` live view
-
-> Paste screenshots/gifs here to make the repo pop on GitHub and Telegram.
-
----
-
 ## Stack
 - **Language:** Python 3.11+
 - **Libs:** discord.py (slash commands), psutil, httpx
