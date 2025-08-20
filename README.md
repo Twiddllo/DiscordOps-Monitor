@@ -112,7 +112,7 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 
 ## Contact
 
-* **Telegram:** [Twiddllo](t.me/twiddllo)
+* **Telegram:** @Twiddllo
 * **GitHub:** [Twiddllo](https://github.com/Twiddllo)
 
 If you like the project, a ⭐ helps
