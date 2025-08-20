@@ -55,8 +55,7 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 
    ```bash
    python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-   pip install -U pip
-   pip install discord.py psutil httpx
+   pip install -r requirements.txt
    ```
 
 3. **Configure**
