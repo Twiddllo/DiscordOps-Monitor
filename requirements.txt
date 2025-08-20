@@ -1,0 +1,3 @@
+discord.py>=2.4.0
+psutil>=5.9.8
+httpx>=0.27.0
