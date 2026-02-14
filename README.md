@@ -1,6 +1,10 @@
 
 I build reliable systems, automate the boring stuff, and keep services up even when things get noisy. Strong focus on **observability**, **incident response**, and **practical automation**.
 
+
+![Preview](media/preview.gif)
+
+
 ---
 
 ## Highlights
@@ -104,7 +108,7 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 ## Contact
 
 * **Telegram:** @Twiddllo
-* **GitHub:** [Twiddllo](https://github.com/Twiddllo)
+* **Discord:** @Twiddllo.dev
 
 If you like the project, a ⭐ helps
 
