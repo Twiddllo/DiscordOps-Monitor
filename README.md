@@ -22,6 +22,7 @@ I build reliable systems, automate the boring stuff, and keep services up even w
 
 **What it does**
 - Sends a **Discord webhook alert** if total CPU > **90%** (with cooldown to prevent spam).
+- ![Alert Preview](media/alart_preview.png)
 - Includes **Top 3 CPU hogs** (normalized to 0–100% total CPU).
 - Slash command **`/topcpu`**: snapshot Top 10 processes with live CPU%.
 - Slash command **`/terminate <index>`**: safely kill a selected process from the latest `/topcpu` list.
