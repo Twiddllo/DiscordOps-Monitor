@@ -37,4 +37,4 @@ jobs:
         run: python -m py_compile main.py
 
       - name: Compile bot entrypoint
-        run: python -m py_compile bot.py
+        run: python -m py_compile main.py
